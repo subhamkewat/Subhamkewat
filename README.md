@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [Queue Cure](https://github.com/subhamkewat/queue-cure)
+### 🏥 [Queue Cure](https://queue-cure-xbcx.onrender.com/receptionist)
 
 Real-time clinic queue management system with live queue updates and voice announcements.
 
