@@ -34,13 +34,16 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 Queue Cure
+### 🏥 [Queue Cure](https://github.com/subhamkewat/queue-cure)
+
 Real-time clinic queue management system with live queue updates and voice announcements.
 
-### 🛡️ SafeBand AI
+### 🛡️ [SafeBand AI](https://github.com/subhamkewat/safeband-ai)
+
 AI-powered women safety platform with SOS alerts and emergency support.
 
-### 🌐 Suvidha Sangam CSC
+### 🌐 [Suvidha Sangam CSC](https://suvidha-sangam-csc.netlify.app/)
+
 Digital platform for CSC services and online applications.
 
 ## 🛠️ Languages and Tools
