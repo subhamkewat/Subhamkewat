@@ -59,12 +59,13 @@ Digital platform for CSC services and online applications.
 
 ## 📊 GitHub Stats
 
-## 📈 Contribution Graph
-
-[![Subham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamkewat&theme=react-dark)](https://github.com/subhamkewat)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamkewat&show_icons=true&locale=en&layout=compact" alt="subhamkewat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamkewat&show_icons=true&locale=en" alt="subhamkewat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkewat&" alt="subhamkewat" /></p>
+<p><img align="cesnter" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkewat&" alt="subhamkewat" /></p>
+
+## 📈 Contribution Graph
+
+[![Subham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamkewat&theme=react-dark)](https://github.com/subhamkewat)
