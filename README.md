@@ -38,7 +38,7 @@
 
 Real-time clinic queue management system with live queue updates and voice announcements.
 
-### 🛡️ [SafeBand AI](https:https://subhamkewat.github.io/safeband-ai/)
+### 🛡️ [SafeBand AI](https://subhamkewat.github.io/safeband-ai/)
 
 AI-powered women safety platform with SOS alerts and emergency support.
 
