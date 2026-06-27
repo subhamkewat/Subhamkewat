@@ -9,7 +9,7 @@
 
 - 🔭 Currently building AI-powered applications and intelligent automation tools.
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 Currently exploring Full-Stack Development, AI, and Machine Learning
 
 - 💬 Ask me about **Python**
 
@@ -58,6 +58,10 @@ Digital platform for CSC services and online applications.
 </p>
 
 ## 📊 GitHub Stats
+
+## 📈 Contribution Graph
+
+[![Subham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamkewat&theme=react-dark)](https://github.com/subhamkewat)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamkewat&show_icons=true&locale=en&layout=compact" alt="subhamkewat" /></p>
 
