@@ -13,8 +13,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **subhamkewat482@gmail.com**
-
+- 📫 Email: subhamkewat482@gmail.com
+  
+- 💼 LinkedIn: https://linkedin.com/in/subham-kumar-kewat-893a5b29a
   
 ## 🏆 Achievements
 
@@ -23,7 +24,7 @@
 - 🚀 Built and deployed multiple Full-Stack projects
 - 💻 Solved DSA problems and actively contributing on GitHub
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/iamsubhamkewat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsubhamkewat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subham kumar kewat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham kumar kewat" height="30" width="40" /></a>
@@ -42,7 +43,7 @@ AI-powered women safety platform with SOS alerts and emergency support.
 ### 🌐 Suvidha Sangam CSC
 Digital platform for CSC services and online applications.
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
